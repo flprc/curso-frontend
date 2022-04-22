@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {  
+    height: 100vh;
+    background-color: #DBAA85;
+    overflow: overlay;
+}
